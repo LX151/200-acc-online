@@ -1,4 +1,4 @@
-////////////////// prefix wara
+////////////////// LX15.1
 const Discord = require("discord.js");
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
@@ -6138,7 +6138,7 @@ jano200.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-//////////////// tokn lera da bne
+//////////////// w1yTdzbRAuX3Hvzg6hnAq0tYo
 
 jano.login("");
 jano2.login("");
