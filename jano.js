@@ -1,4 +1,4 @@
-////////////////// prefix wara
+////////////////// LX15.1
 const Discord = require("discord.js");
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
@@ -210,7 +210,7 @@ jano.on("message", message => {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**basha qashmar**");
+          message.reply("**IG:p8ia_11**");
         })
         .catch(console.log);
     } else {
@@ -227,7 +227,7 @@ jano2.on("message", message => {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**basha qashmar**");
+          message.reply("**IG:p8ia_11**");
         })
         .catch(console.log);
     } else {
@@ -243,7 +243,7 @@ jano3.on("message", message => {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**basha qashmar**");
+          message.reply("**IG:p8ia_11**");
         })
         .catch(console.log);
     } else {
@@ -6140,9 +6140,9 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("NjkyMzYxMDA4NjMwNzI2NzE3.YlLK6w.ppJb_tTmG6U8Nec_11xGN6Q7m60");
+jano2.login("NzcxODA1MTcwMzA3OTU2NzY3.YlLLbg.eDE2IzipnnxnKdrgnIWfpY_0WrU");
+jano3.login("ODQ5NzA4NjQ4NzQ1MjcxMzc2.YlLL7w.JgfGe3FFhABdOy0pukMXpVk0mX8");
 jano4.login("");
 jano5.login("");
 jano6.login("");
