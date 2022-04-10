@@ -6140,7 +6140,7 @@ jano200.on("ready", () => {
 
 //////////////// w1yTdzbRAuX3Hvzg6hnAq0tYo
 
-jano.login("");
+jano.login("ODQ5NzA4NjQ4NzQ1MjcxMzc2.YlJLcQ.DZrTTfjxa5411tTlvqJINY5aH74");
 jano2.login("");
 jano3.login("");
 jano4.login("");
